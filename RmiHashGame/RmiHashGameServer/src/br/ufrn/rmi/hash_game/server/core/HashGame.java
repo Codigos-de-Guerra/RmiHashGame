@@ -42,14 +42,12 @@ public class HashGame {
     }
 
     public String auxMarkBoard(String[] coords, int playerId) {
-        int line = 0;
-        int column = 0;
         try {
             if(coords.length != 2) {
-                throw new Exception("\nMust type only 2 integers in range[0,2] to represent position in hashGame\nTry again");
+                throw new Exception("\nMust type only 2 integers in range[0,2] to represent position in hashGame.\nTry again.");
             }
-            line = Integer.parseInt(coords[0]);
-            column = Integer.parseInt(coords[1]);
+            int line = Integer.parseInt(coords[0]);
+            int column = Integer.parseInt(coords[1]);
 
             return markBoard(line, column, playerId);
         } catch (Exception e) {
