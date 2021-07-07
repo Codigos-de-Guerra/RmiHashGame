@@ -36,6 +36,6 @@ Now you are effectively running this project.
 
 ## Authorship
 
-Program developed by [_Daniel Guerra_](https://github.com/Codigos-de-Guerra) (*daniel.guerra13@hotmail.com*) and [_Natália Azevedo_](https://github.com/A) (*email@email.com*), 2021.1
+Program developed by [_Daniel Guerra_](https://github.com/Codigos-de-Guerra) (*daniel.guerra13@hotmail.com*) and [_Natália Azevedo_](https://github.com/bnatalha) (natalia.brito.015@ufrn.edu.br), 2021.1
 
 &copy; DIMAP/UFRN 2021.
